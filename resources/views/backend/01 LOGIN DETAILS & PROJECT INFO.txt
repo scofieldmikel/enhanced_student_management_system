@@ -1,0 +1,22 @@
+
+**Opgraded by Shoyemi Micheal**
+
+---Admin Login Details---
+
+Email   : admin@mail.com
+Password: scofield.mike
+
+---Teacher Login Details---
+
+Email   : teacher@mail.com
+Password: scofield.mike
+
+---Student Login Details---
+
+Email   : student@mail.com
+Password: scofield.mike
+
+---Parents Login Details---
+
+Email   : parent@mail.com
+Password: scofield.mike
