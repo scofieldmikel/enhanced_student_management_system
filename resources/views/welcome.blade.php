@@ -93,9 +93,9 @@
                     <a href="#">secondary</a>
                     <a href="#">school</a>
                     <a href="#">by</a>
-                    <a href="#">Scofield</a>
-                    <a href="#">Mikel</a>
-                    <a href="#">MAT NO: 001122334</a>
+                    <a href="#">Osho</a>
+                    <a href="#">Zainab</a>
+                    <a href="#">MAT NO: 236202032</a>
                 </div>
             </div>
         </div>
